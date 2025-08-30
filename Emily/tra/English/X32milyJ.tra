@@ -33,7 +33,7 @@
 @32   = ~Besides, the crusade was really the only thing we were both focused on, besides getting away from the Planar Hunters. I still remember seeing dead refugees all over a burned home. It was horrible.~
 @33   = ~We should return to our work. The sooner we progress, the sooner this all ends.~
 @34   = ~I know. Yet I also hope that we can show her the error of her ways, in some more peaceful ending, naive as it sounds.~
-@35   = ~Do I? In some ways, I do. Her blood is more promiment than mine. I envy her in some ways, yet am glad for the lack of attention. And she rallies so many for a seemingly noble cause, despite its clear faults.~
+@35   = ~Do I? In some ways, I do. Her blood is more prominent than mine. I envy her in some ways, yet am glad for the lack of attention. And she rallies so many for a seemingly noble cause, despite its clear faults.~
 @36   = ~Imagine doing that for a truly good cause, not something with such terrible effects as Caelar. How good the world could potentially be, strong and united.~
 @37   = ~It would be something to see, if such could truly come to pass.~
 @38   = ~It is idealistic, to think that way. It can only be a dream.~
@@ -85,9 +85,9 @@
 @84   = ~I would disagree. It is a simple world out there.~
 @85   = ~it won't get any easier talking about it.~
 @86   = ~N-now? Er, well...let me see if I can recall something...Oh!~
-@87   = ~"I cave into the earth’s eerie whispers, 
-Toppling in resignation, not with a thud, not with a crash, 
-But like a plush pillow, a falling feather, 
+@87   = ~"I cave into the earth’s eerie whispers,
+Toppling in resignation, not with a thud, not with a crash,
+But like a plush pillow, a falling feather,
 Into your arms, as your prize of victory"~
 @88   = ~That was romantic. I liked it a lot.~
 @89   = ~That was incredibly cheesy.~
@@ -115,7 +115,7 @@ Into your arms, as your prize of victory"~
 @111  = ~Hey, we're not *that* incompetent, you know.~
 @112  = ~Just stay safe yourself. You're important to the group, after all.~
 @113  = ~There is no need to worry. I will do all I can.~
-@114  = ~I ca't promise anything. There is always the risk.~
+@114  = ~I can't promise anything. There is always a risk.~
 @115  = ~Nothing is going to take me out. You should have more faith.~
 @116  = ~I believe you will. But you've shown that you're quite willing to take risks, too.~
 @117  = ~There is. And I understand.~
@@ -137,7 +137,7 @@ Into your arms, as your prize of victory"~
 @133  = ~I would love to~
 @134  = ~I don't know. Let's talk about it afterwards.~
 @135  = ~I'm not interested.~
-@136  = ~Oh, I'm smiling like an idiot. You actually want to go with me? I planned on going home to Tethyr. There is father's heir decision, and gathering support for it  to do.~
+@136  = ~Oh, I'm smiling like an idiot. You actually want to go with me? I planned on going home to Tethyr. There is father's heir decision, and gathering support for it to do.~
 @137  = ~Are you sure that's what you want?~
 @138  = ~I would love to.~
 @139  = ~Oh, thank you! Oh, let me hug you! I never thought I'd forge such bonds so far away from home...and I like our relationship!~
@@ -216,7 +216,7 @@ Into your arms, as your prize of victory"~
 @212  = ~Is that a joke over my heritage? Oh very well.~
 @213  = ~Certainly. Something soft and sweet should do.~
 @214  = ~"The lark sang sweeter then than ever, love lulling voice from beyond the nether..."~
-@215  = ~That's sweet of  you to say. I'll do my best.~
+@215  = ~That's sweet of you to say. I'll do my best.~
 @216  = ~I think you praise me too highly, but here goes.~
 @217  = ~Sending him out to that elf like that is just wrong. You really disappoint me.~
 @218  = ~If you had asked me? I would say most definitely, vampire.~
@@ -258,7 +258,7 @@ Into your arms, as your prize of victory"~
 @254  = ~Gods, no!~
 @255  = ~I can't believe this. She really thinks she is right.~
 @256  = ~I can see you and I are similar. How can you not see the light of my cause, in my call for liberation of innocent souls?~
-@257  = ~I am with <CHARNAME>. As tempting as it is to liberate lost souls...you have shown nothing of  merit to any of us.~
+@257  = ~I am with <CHARNAME>. As tempting as it is to liberate lost souls...you have shown nothing of merit to any of us.~
 @258  = ~If there were time I would take the time to convince you. But time runs out, and we must march.~
 @259  = ~This is terrible. She can't even see reason anymore.~
 @260  = ~<PRO_HESHE> would, and so would I.~
@@ -318,7 +318,7 @@ Into your arms, as your prize of victory"~
 @314  = ~Ice Bolts then, are you sure? I've only enough components to make a dozen bundles of that type of ammunition total, not counting any I've already used for you.~
 @315  = ~Yes, go ahead and make me a bundle of ice bolts.~
 @316  = ~I can, but I've only enough materials to enhance one ranged weapon. You should pick wisely.~
-@317  = ~Protector of  the Dryad Shortbow.~
+@317  = ~Protector of the Dryad Shortbow.~
 @318  = ~Heavy Crossbow of Accuracy~
 @319  = ~Light Crossbow of Speed~
 @320  = ~Deadshot Longbow~
@@ -334,7 +334,7 @@ Into your arms, as your prize of victory"~
 @330  = ~All done, <CHARNAME>.~
 @331  = ~See, your bolts are all set! Let me know later if you want me to work on something new.~
 @332  = ~See, your arrows are all set! Let me know later if you want me to work on something new.~
-@333  = ~See, your weapon is all set. I hope you enjoy it's slight modifications. Should help anyone's accuracy and skill with it.~
+@333  = ~See, your weapon is all set. I hope you enjoy its slight modifications. Should help anyone's accuracy and skill with it.~
 @334  = ~What would you like to talk about?~
 @335  = ~What do you think of our companions?~
 @336  = ~What do you think of me?~
@@ -381,13 +381,13 @@ Into your arms, as your prize of victory"~
 @377  = ~A drow on the surface. It almost seems foolhardy to have her around to me, but I trust your judgement.~
 @378  = ~He's handsome for a monk. But there's a troubled aspect to him, something that pains him. I wish I could tell what it was.~
 @379  = ~I'm really not fond of the drow. He's arrogant as he is, and well, a drow. But as long as he is on our side, I guess.~
-@380  = ~He's a friedly little gnome, isn't he? I quite like him.~
+@380  = ~He's a friendly little gnome, isn't he? I quite like him.~
 @381  = ~I've never seen someone so devoted to the cause. I don't think I could do that, I'd want some individuality.~
 @382  = ~I would really rather not travel with a goblin. I'm still surprised our own allies haven't killed it.~
 @383  = ~She's obsessed with battle. Such bloodlust. It's a bit concerning to me.~
-@384  = ~He's not fully commited to the cause, to me. But who can blame someone for wanting a bit of legend and glory, I guess.~
+@384  = ~He's not fully committed to the cause, to me. But who can blame someone for wanting a bit of legend and glory, I guess.~
 @385  = ~She's so diligent in keeping records of everything. Such fascination with the preservation of history. It makes me smile a little.~
-@386  = ~She's that snobbish elf you hear about and never want to met. She wouldn't be so bad if she wasn't constantly throwing insults with that tongue.~
+@386  = ~She's that snobbish elf you hear about and never want to meet. She wouldn't be so bad if she wasn't constantly throwing insults with that tongue.~
 @387  = ~How does he constantly keep drinking? It is quite strange behavior.~
 @388  = ~She's so adorable. I didn't think I'd say that of a gnome. And her projects are quite interesting.~
 @389  = ~I don't think he's lying about who he is, but he's *really* not what I'd imagine for a noble or member of the Radiant Heart.~
