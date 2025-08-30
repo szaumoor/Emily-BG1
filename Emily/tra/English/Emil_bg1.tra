@@ -142,9 +142,6 @@ We couldn't persuade Jacob to take our cause. We can only hope he is not one of 
 We managed to convince Jacob to leave the crusade.~
 
 
-
-
-
 // Items
 
 @50 = ~The Dead Shot +2, Enhanced~
@@ -153,9 +150,11 @@ Driven by years of rivalry, the dukes of Spandeliyon and Delthuntle decided to o
 
 STATISTICS:
 
+Equipped abilities:
+– Dexterity: +1
+
 THAC0: +3
 Damage: +2
-Dexterity: +1
 Speed Factor: 5
 Proficiency Type: Longbow
 Type: Two-handed
@@ -189,13 +188,15 @@ Weight: 5~
 @59 = ~Enhanced Heavy Crossbow of Accuracy: The Guide
 A favored siege weapon of King Shastir Longeve, crossbows of this type were designed for the systematic removal of defensive forces thought safe behind the battlements of castles. Scant few of these weapons survive to this day, mainly due to the eventual annihilation of the king's forces by a coalition of subjugated lands.
 
-Emily has modified the string of The Guide, enhancing it's ability to help the user be more agile and accurate.
+Emily has modified the string of The Guide, enhancing its ability to help the user be more agile and accurate.
 
 STATISTICS:
 
+Equipped abilities:
+– Dexterity: +1
+
 THAC0: +5
 Damage: +2
-Dexterity: +1
 Speed Factor: 7
 Proficiency Type: Crossbow
 Type: Two-handed
@@ -208,13 +209,15 @@ Weight: 10~
 @60 = ~Enhanced Eagle Bow: Protector of the Dryads
 In order to protect their community from an encroaching orc logging encampment, the hero Hannable the White was given this magnificent bow by the dryads of Gulthmere Forest. A deadly confrontation followed when the loggers dared to try to cut down a great oak tree, nearly killing the dryad linked to it. With the help of powerful forest animals, Hannable slew entire bands of orcs before any more damage was inflicted upon the wood. The orcs were forced to abandon their plans, lest they suffer the continued wrath of Hannable and the forest. Needless to say, the hero who aided the grateful dryads lived happily... nay, VERY happily ever after!
 
-Emily has modified the string of the Eagle Bow, enhancing it's ability to help the user be more agile and accurate.
+Emily has modified the string of the Eagle Bow, enhancing its ability to help the user be more agile and accurate.
 
 STATISTICS:
 
+Equipped abilities:
+– Dexterity: +1
+
 THAC0: +2
 Damage: +2
-Dexterity: +1
 Speed Factor: 4
 Proficiency Type: Shortbow
 Type: Two-handed
@@ -249,7 +252,7 @@ THAC0: +1, +4 against aasimar, tieflings, and demonic entities
 Damage: +1, +4 against aasimar, tieflings, and demonic entities
 Speed Factor: 5
 Proficiency Type: Long sword
-Type: Large Sword
+Type: One-handed
 Requires:
 10 Strength
 
@@ -258,7 +261,7 @@ Weight: 10~
 @69 = ~Enhanced Fleshripper +2~
 @70 = ~Despite this short bow's intimidating name, it carries no gruesome history. Kitsana, an elven ranger, designed this bow for her own use and could fire it with astonishing rapidity. One night at camp Kitsana's party each took a turn trying to master the unusually thin bowstring and uniquely curved grip of the weapon. None shot as poorly as the fighter, a braggart named Tirrel, who not only missed his target by a foot but who snapped the bowstring down the length of his forearm and tore off a strip of skin. Kitsana and her party faded into obscurity decades ago but her bow still circulates.
 
-Emily has modified the string of the Fleshripper, enhancing it's ability to help the user be more agile and accurate.
+Emily has modified the string of the Fleshripper, enhancing its ability to help the user be more agile and accurate.
 
 STATISTICS:
 
@@ -296,7 +299,8 @@ Weight: 1~
 
 STATISTICS:
 
-Damage: 1d6 (missile) +1 Acid/Cold/Electrical/Fire Damage (Save vs. Spell for none)
+Damage: 1d6, +1 acid, cold, electrical, and fire damage (save vs. Spell for none)
+Damage type: Missile
 Launcher: Bow
 
 Weight: 0~
@@ -305,7 +309,8 @@ Weight: 0~
 STATISTICS:
 
 THAC0: +1
-Damage: 1d6 (missile) +1 Acid/Cold/Electrical/Fire Damage (Save vs. Spell for none)
+Damage: 1d6, +1 acid, cold, electrical, and fire damage (save vs. Spell for none)
+Damage type: Missile
 Launcher: Bow
 
 Weight: 0~
@@ -313,11 +318,12 @@ Weight: 0~
 
 STATISTICS:
 
-Combat Abilities
-– Target must make a save versus spell or have their movement speed halved for one round.
+Combat abilities
+– Target must make a save vs. Spell or have their movement speed halved for one round.
 
 THAC0: +1
-Damage: 1d6 (missile) +1 Acid/Cold/Electrical/Fire Damage (Save vs. Spell for none)
+Damage: 1d6, +1 acid, cold, electrical, and fire damage (save vs. Spell for none)
+Damage type: Missile
 Launcher: Bow
 
 Weight: 0~
@@ -325,72 +331,75 @@ Weight: 0~
 
 STATISTICS:
 
-Combat Abilities
-– Target must make a save versus spell or have their movement speed halved for one round.
+Combat abilities
+– Target must make a save vs. Spell or have their movement speed halved for one round.
 
 THAC0: +2
-Damage: 1d6 (missile) +1 Acid/Cold/Fire/Electrical Damage (Save vs. Spell for none)
+Damage: 1d6, +1 acid, cold, electrical, and fire damage (save vs. Spell for none)
+Damage type: Missile
 Launcher: Bow
 
 Weight: 0~
-@86 = ~This Bolt fletched by Emily is a basic enchanted bolt, fast and light. It strikes with the enchantment of four different elements. Only she can make use of this Bolt.
+@86 = ~This bolt fletched by Emily is a basic enchanted bolt, fast and light. It strikes with the enchantment of four different elements. Only she can make use of this bolt.
 
 STATISTICS:
 
-Damage: 1d6 (missile) +1 Acid/Cold/Electrical/Fire Damage (Save vs. Spell for none)
+Damage: 1d8, +1 acid, cold, electrical, and fire damage (save vs. Spell for none)
+Damage type: Missile
 Launcher: Crossbow
 
 Weight: 0~
-@87 = ~This Bolt fletched by Emily is a simple enchanted bolt, fast, light, and precise. It strikes with the enchantment of four different elements. Only Emily can make use of this Bolt.
+@87 = ~This bolt fletched by Emily is a simple enchanted bolt, fast, light, and precise. It strikes with the enchantment of four different elements. Only she can make use of this bolt.
 
 STATISTICS:
 
 THAC0: +1
-Damage: 1d6 (missile) +1 Acid/Cold/Electrical/Fire Damage (Save vs. Spell for none)
+Damage: 1d8, +1 acid, cold, electrical, and fire damage (save vs. Spell for none)
+Damage type: Missile
 Launcher: Crossbow
 
 Weight: 0~
-@88 = ~This Bolt fletched by Emily is a heavily enchanted bolt, fast, light, and precise. It strikes with the enchantment of four different elements, and its Bolthead splinters upon contact, possibly slowing its target. Only Emily can make use of this Bolt.
+@88 = ~This bolt fletched by Emily is a heavily enchanted bolt, fast, light, and precise. It strikes with the enchantment of four different elements, and its Bolthead splinters upon contact, possibly slowing its target. Only she can make use of this Bolt.
 
 STATISTICS:
 
-Combat Abilities
-– Target must make a save versus spell or have their movement speed halved for one round.
+Combat abilities
+– Target must make a save vs. Spell or have their movement speed halved for one round.
 
 THAC0: +1
-Damage: 1d6 (missile) +1 Acid/Cold/Electrical/Fire Damage (Save vs. Spell for none)
+Damage: 1d8, +1 acid, cold, electrical, and fire damage (save vs. Spell for none)
+Damage type: Missile
 Launcher: Crossbow
 
 Weight: 0~
-@89 = ~This Bolt represents Emily's finest fletching. The bolt is fast and precise, and sends its surging energy of four elements into its victim, possibly slowing their movement by half. Only she may make use of its power.
+@89 = ~This bolt represents Emily's finest fletching. The bolt is fast and precise, and sends its surging energy of four elements into its victim, possibly slowing their movement by half. Only she may make use of its power.
 
 STATISTICS:
 
-Combat Abilities
-– Target must make a save versus spell or have their movement speed halved for one round.
+Combat abilities
+– Target must make a save vs. Spell or have their movement speed halved for one round.
 
 THAC0: +2
-Damage: 1d6 (missile) +1 Acid/Cold/Electrical/Fire Damage (Save vs. Spell for none)
+Damage: 1d8, +1 acid, cold, electrical, and fire damage (save vs. Spell for none)
+Damage type: Missile
 Launcher: Crossbow
 
 Weight: 0~
-@90 = ~Fletch Arrow: Emily fletches a dozen enchanted arrows. She may only fletch while not in combat. As she gains levels, her skill with enchanting and fletching increases, changing the arrows properties:
+@90 = ~Fletch Arrow: Emily fletches a dozen enchanted arrows. She may only fletch while not in combat. As she gains levels, her skill with enchanting and fletching increases, changing the properties of the arrows:
 
-Level 1: +1 Acid/Cold/Electrical/Fire Damage (Save vs Spell for None).
-Level 6: +1 Acid/Cold/Electrical/Fire Damage (Save vs Spell for None), +1 THAC0
-Level 12: +50% Movement speed penalty for one round and +1 Acid/Cold/Electrical/Fire Damage (Save vs Spell for No Damage, no penalty), +1 THAC0
-Level 18: +50% Movement speed penalty for one round and +1 Acid/Cold/Electrical/Fire Damage (Save vs Spell for No Damage, no penalty), +2 THAC0~
-@91 = ~Fletch Bolt: Emily fletches a dozen enchanted bolts. She may only fletch them while not in combat. As she gains levels, her skill with enchanting and fletching increases, changing the bolts properties:
+Level 1: +1 acid, cold, electrical, and fire damage (save vs. Spell for none).
+Level 6: +1 acid, cold, electrical, and fire damage (save vs. Spell for none), +1 THAC0
+Level 12: +50% Movement speed penalty for one round and +1 acid, cold, electrical, and fire damage (save vs. Spell to avoid all effects), +1 THAC0
+Level 18: +50% Movement speed penalty for one round and +1 acid, cold, electrical, and fire damage (save vs. Spell to avoid all effects), +2 THAC0~
+@91 = ~Fletch Bolt: Emily fletches a dozen enchanted bolts. She may only fletch them while not in combat. As she gains levels, her skill with enchanting and fletching increases, changing the properties of the bolts:
 
-Level 1: +1 Acid/Cold/Electrical/Fire Damage (Save vs Spell for None).
-Level 6: +1 Acid/Cold/Electrical/Fire Damage (Save vs Spell for None), +1 THAC0
-Level 12: +50% Movement Speed Penalty for one round and +1 Acid/Cold/Electrical/Fire Damage (Save vs Spell for No Damage, no penalty), +1 THAC0
-Level 18: +50% Movement Speed Penalty for one round and +1 Acid/Cold/Electrical/Fire Damage (Save vs Spell for No Damage, no penalty), +2 THAC0~
+Level 1: +1 acid, cold, electrical, and fire damage (save vs. Spell for none).
+Level 6: +1 acid, cold, electrical, and fire damage (save vs. Spell for none), +1 THAC0
+Level 12: +50% movement speed penalty for one round and +1 acid, cold, electrical, and fire damage (save vs. Spell to avoid all effects), +1 THAC0
+Level 18: +50% movement speed penalty for one round and +1 acid, cold, electrical, and fire damage (save vs. Spell to avoid all effects), +2 THAC0~
 // New Items for 1.53+
 @92 = ~Emily's Wing Necklace~
-@93 = ~Emily's Wing Necklace: This silver wing threaded into a necklace contains warm, soothing magic.
-When a hand is put onto another being, the wearer of the necklace may let its magic thread from them into their target, curing them of any paralysis once, where it will then
-need time to restore its magic within after a period of rest. This necklace is the only possession Emily has that she believes is from her birth mother, and she is unwilling to part with it for any reason.
+@93 = ~This silver wing threaded into a necklace contains warm, soothing magic. When a hand is put onto another being, the wearer of the necklace may let its magic thread from them into their target, curing them of any paralysis once, where it will then need time to restore its magic within after a period of rest. This necklace is the only possession Emily has that she believes is from her birth mother, and she is unwilling to part with it for any reason.
 
 STATISTICS:
 
@@ -399,14 +408,13 @@ Charge abilities:
 
 Weight: 1~
 @94 = ~Emily's Silver Circlet~
-@95 = ~Emily's Silver Circlet: These silver circlets are worn by the nobility of House Castilla, and gifted to them when they reach adulthood. Each is enchanted with magic unique to the wearer.
-Emily's Silver Circlet enhances her concentration with the bow, allowing her hits to be sharper. However, unlike a helmet, circlets do not protect against critical hits.
+@95 = ~These silver circlets are worn by the nobility of House Castilla, and gifted to them when they reach adulthood. Each is enchanted with magic unique to the wearer. Emily's circlet enhances her concentration with the bow, allowing her hits to be sharper. However, unlike a helmet, circlets do not protect against critical hits.
 
 STATISTICS:
 
 Equipped abilities:
-–  Ranged Critical Chance: +5%
-–  Does not protect against critical hits
+– Critical Hit Chance: +5% (ranged attacks)
+– Does not protect against critical hits
 
 Weight: 1~
 @96 = ~Sorry, <CHARNAME>. I can't give that up.~
@@ -415,7 +423,7 @@ Weight: 1~
 
 @98 = ~A wooden face carved mid-scream stares out from the shaft of this hardwood bow. It's whispered that the half-orc archer Zavruk had an elven soul bound into the bow, but the bow's lack of a necromantic aura casts doubt on the story. What's certain is that the bowstring makes a horrible screeching noise whenever fired, instilling fear in the wielder's enemies.
 
-Emily has modified the string of the Bow of the Banshee, enhancing it's ability to help the user be more agile and accurate.
+Emily has modified the string of the Bow of the Banshee, enhancing its ability to help the user be more agile and accurate.
 
 STATISTICS:
 
